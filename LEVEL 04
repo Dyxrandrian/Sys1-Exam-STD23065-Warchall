@@ -1,0 +1,10 @@
+Le level 04 est une question de compréhension des indication:
+-on entre dans le répertoire /home/level/04_kwisatz => cd home/level/04_kwisatz
+-il y a une fichier README.nfo et à l'interieur il y a : "Look in your ~"
+-cela veut dire que la solution de trouve dans le dossier personnel ("~" = dossier personnel)
+-on entre alors dans cd /home/user/yourNick/level
+-il y a un dossier 04_kwisatz
+-dans ce dossier il y a un fihier  README2.md qui ne peut être ouvert
+-on fait "ls -al" et on s'aperçoit" que notre utilisateur n'a pas de permission pour lire le fichier
+-on fait alors "chmod +w README2.md" et on a la permission pour lire le ficheir ( w = write)
+-dans le fichier il y a la solution qui est : AndOfCourseIDoKnowChown
