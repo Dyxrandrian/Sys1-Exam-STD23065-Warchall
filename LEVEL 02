@@ -5,7 +5,6 @@ Le niveau 02 est un peu plus difficil que les deux premier:
 -il s'affiche en effet un dossier caché ".porb"
 -on fait "cd .porb" et on fait "ls", on s'apperçoit que le dossier est vide
 -on resaisit la commande "ls -a" et => /home/level/02/.porb$ ls -a
--il y a un fichier caché .solution et la solution est à l'intérieur => cat .solution =>
--la solution est  HiddenIsConfig
+-il y a un fichier caché .solution et la solution est à l'intérieur
 
 
