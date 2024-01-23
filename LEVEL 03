@@ -3,4 +3,3 @@ Le niveau 03 semble plus facil que le niveau 02:
 -on s'aperçoit qu'il est vide
 -on fait "ls -a" et les dossiers cachés s'affichent
 -il y a un fichier .bash_History et il y a la solution à l'intérieur (cat .bash_History)
--la solution est : RepeatingHistory
